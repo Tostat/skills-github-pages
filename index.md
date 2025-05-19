@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Table
+<h6> WTH </h6>
 ---
 
